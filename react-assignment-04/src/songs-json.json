@@ -1,0 +1,67 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "movie": "Lucifer",
+      "title": "Raftara",
+      "duration": "6:16",
+      "singer": "Jyotsna"
+    },
+    {
+      "id": 2,
+      "movie": "Love Action Drama",
+      "title": "Kududkku",
+      "duration": "2:50",
+      "singer": "Vineeth"
+    },
+    {
+      "id": 3,
+      "movie": "Theevandi",
+      "title": "Jeevamshamayi",
+      "duration": "6:14",
+      "singer": "Harishankar"
+    },
+    {
+      "id": 4,
+      "movie": "Angamali",
+      "title": "Angamali Pillar",
+      "duration": "5:14",
+      "singer": "Harishankar"
+    },
+    {
+      "id": "65c42fc6-3efb-4ac2-a493-0320d66d7f85",
+      "movie": "Aaram Thampuran",
+      "title": "Himagiri",
+      "duration": "4:15",
+      "singer": "MG Srrekumar"
+    },
+    {
+      "id": "f3771cb1-6526-4885-9817-ebb138ab7499",
+      "movie": "Premam",
+      "title": "Kanmani",
+      "duration": "3:25",
+      "singer": "Vijay"
+    },
+    {
+      "id": "Angamali",
+      "movie": "Minnaram",
+      "title": "Nilavee",
+      "duration": "5:05",
+      "singer": "Yesudas"
+    },
+    {
+      "id": "22e473eb-c109-42ef-b5ae-697e8b6733f5",
+      "movie": "Maheshinte Prathikaaram",
+      "title": "Idukki",
+      "duration": "5:35",
+      "singer": "Shreya"
+    },
+    {
+      "id": "800492f6-4a27-4d71-adbb-4d7ecd5456c1",
+      "movie": "Raavan",
+      "title": "Veera",
+      "duration": "4:48",
+      "singer": "Balaji"
+    }
+  ]
+}
